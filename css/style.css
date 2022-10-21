@@ -11,9 +11,6 @@
 
 
 
-/*----------------------------------------*/
-/* Template default CSS
-/*----------------------------------------*/
 
 html,
 body {
@@ -22,35 +19,57 @@ body {
 	-webkit-font-smoothing: antialiased;
 	font-smoothing: antialiased;
 }
+
 h6 {
+
+
+h1 {
+	font-size: 70px;
 	margin: 0;
 	color: #212121;
 	font-weight: 500;
 }
+
 
 h1 {
 	font-size: 70px;
 	
 }
 
+
 h2 {
 	font-size: 36px;
+	margin: 0;
+	color: #212121;
+	font-weight: 500;
 }
 
 h3 {
 	font-size: 30px;
+	margin: 0;
+	color: #212121;
+	font-weight: 500;
 }
 
 h4 {
 	font-size: 24px;
+	margin: 0;
+	color: #212121;
+	font-weight: 500;
 }
 
 h5 {
 	font-size: 18px;
+	margin: 0;
+	color: #212121;
+	font-weight: 500;
 }
 
 h6 {
 	font-size: 16px;
+	margin: 0;
+	color: #212121;
+	font-weight: 500;
 }
 
 p {

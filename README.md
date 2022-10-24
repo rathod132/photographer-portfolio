@@ -1,5 +1,5 @@
 # Website For Photographer
- This website i created for photographer .which is used to demostarte theri work and show your portoflio
+I created this website for photographers. It is used to demostarte their work and show their portoflio
 
 # HERE’S HOW WE VALIDATE CONTRIBUTOR PULL/MERGE REQUESTS (“PR/MRS”) FOR HACKTOBERFEST
 

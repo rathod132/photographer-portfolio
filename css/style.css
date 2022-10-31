@@ -17,11 +17,7 @@ body {
 	height: 100%;
 	font-family: "Poppins", sans-serif;
 	-webkit-font-smoothing: antialiased;
-	font-smoothing: antialiased;
 }
-
-h6 {
-
 
 h1 {
 	font-size: 70px;
@@ -30,12 +26,9 @@ h1 {
 	font-weight: 500;
 }
 
-
 h1 {
 	font-size: 70px;
-	
 }
-
 
 h2 {
 	font-size: 36px;
@@ -592,10 +585,16 @@ ol {
 .hero-item {
 	height: 278px;
 	position: relative;
+	border-radius: 20px;
+	margin: 5px;
+	border-bottom: 2px solid rgba(0, 0, 0, 0.484);
+	border-right: 2px solid rgba(0, 0, 0, 0.484);
+	box-shadow: -4px -4px 8px rgb(252, 252, 252),4px 4px 8px rgba(0, 0, 0, 0.599);
 }
 
 .hero-item:hover .hero-link {
 	opacity: 1;
+	border-radius: 20px;
 }
 
 .hero-item:hover .hero-link h2 {
